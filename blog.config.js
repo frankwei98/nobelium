@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Frank Wei\'s blog',
   author: 'Frank Wei',
   email: 'frank@frankwei.xyz',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://frankwei.xyz',
   description: 'just some thoughts.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
