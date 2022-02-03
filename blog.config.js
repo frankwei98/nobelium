@@ -1,7 +1,7 @@
 const BLOG = {
   title: "Frank Wei's blog",
   author: "Frank Wei",
-  email: "frank@frankwei.xyz",
+  email: "blogcontact@frankwei.xyz",
   link: "https://frankwei.xyz",
   description: "just some thoughts.",
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
